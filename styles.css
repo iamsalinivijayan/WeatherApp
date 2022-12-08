@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #DFF6FF;
+}
+
+.container-fluid{
+
+
+    padding: 7% 15%;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #DFF6FF;
+    font-size: 2rem;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+  }
+
